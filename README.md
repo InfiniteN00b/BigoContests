@@ -1,0 +1,2 @@
+# BigoContests
+contests at clg
